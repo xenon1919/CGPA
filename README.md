@@ -1,1 +1,3 @@
-A Next.js CGPA calculator with Material-UI. Features dynamic semester addition/removal, pre-filled credits for CSE students, and a modern UI with tooltips and static elements. Calculate your CGPA effortlessly!
+# Next.js CGPA Calculator
+
+A modern CGPA calculator web app built using Next.js and Material-UI. This tool allows students to effortlessly calculate their CGPA by adding/removing semesters dynamically, with pre-filled credits for CSE students.
